@@ -1,0 +1,29 @@
+{
+  "name": "trabalhofinalppi",
+  "version": "1.0.0",
+  "description": "aplicativo web",
+  "main": "aplicativo.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node aplicativo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahEstefani/TrabalhoFinalPPI.git"
+  },
+  "author": "Sarah Estefani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahEstefani/TrabalhoFinalPPI/issues"
+  },
+  "homepage": "https://github.com/SarahEstefani/TrabalhoFinalPPI#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "path": "^0.12.7"
+  }
+}
